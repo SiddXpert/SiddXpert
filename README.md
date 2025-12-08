@@ -24,11 +24,15 @@
 
 ### 📌 Featured Projects
 
+### 📌 Featured Projects
+
 | Project | Description | Tech |
 |--------|-------------|------|
-| **Zenit App** | Productivity + Learning App | Flutter + BLoC |
-| **EduDibon App** | ERP Learning Platform | Flutter + Supabase |
-| **Reservation Tracker** | Timezone conversion & meeting organizer | Flutter |
+| **Zenit Wellness App** | Wellness, mindfulness & personal productivity app | Flutter + BLoC |
+| **EduDibon ERP** | ERP solution for schools & colleges | Flutter + Supabase |
+| **Reservation Tracker** | Timezone-based meeting scheduler | Flutter |
+
+
 
 
 👉 *More projects on GitHub — improving everyday 🚀*
