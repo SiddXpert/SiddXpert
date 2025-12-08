@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm M. Siddharth — Flutter Developer</h3>
+<h1 align="center">👋 Hey, I'm M. Siddharth</h1>
+<h3 align="center">Flutter Developer | UI/UX Enthusiast</h3>
 
 ---
 
@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="github logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
 </div>
@@ -25,11 +25,11 @@
 
 ### 🌟 About Me
 
-- 💙 Flutter Developer with strong UI/UX focus  
-- 🧩 Skilled in **BLoC**, Clean Code, Performance Optimization  
-- 📱 Building real-world apps for Android & iOS  
+- 💙 Flutter Developer focused on beautiful & responsive UI/UX  
+- 🧩 Skilled in **BLoC**, clean code & app performance optimization  
+- 📱 Building cross-platform apps for Android & iOS  
 - 🚀 Looking for **internship** & **collaboration** opportunities  
-- 🔥 Passionate about creating smooth user experiences
+- 🔥 Passionate about great user experiences & problem solving  
 
 ---
 
@@ -39,7 +39,8 @@
 |-----|-------------|------|
 | Zenit App | Productivity + Education App | Flutter + BLoC |
 | EduDibon App | ERP Learning App | Flutter + Supabase |
-| 6AM Mart App | Grocery Shopping App UI | Flutter |
+| Expense Tracker | Personal finance app with local storage | Flutter |
+| Wallpaper Hub | Smooth UI dynamic wallpaper browsing app | Flutter |
 
 ---
 
@@ -86,4 +87,4 @@
 
 ---
 
-⭐ *Feel free to check out my repositories and connect with me for opportunities!*
+⭐ *Thanks for visiting! If you like my work, give a star ⭐ to my projects!*
