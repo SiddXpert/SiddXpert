@@ -45,18 +45,18 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SiddXpert&theme=tokyonight&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SiddXpert&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddXpert&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddXpert&theme=tokyonight" height="150"/>
 </div>
+
 
 ---
 
 ### 🏆 Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddXpert&theme=tokyonight&margin-w=10&margin-h=10" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SiddXpert&theme=tokyonight&row=1&margin-w=10&no-frame=true" />
 </div>
 
 ---
