@@ -50,13 +50,14 @@
 
 ---
 
-### 🕹️ Pac-Man Contribution Graph
+### 🕹️ Contribution Graph (Pac-Man)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph-dark.svg" width="480" alt="Pac-Man eating my contributions" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">💛 Pac-Man keeps eating my contributions 👾</p>
 
 ---
 
