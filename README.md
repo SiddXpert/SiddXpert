@@ -17,8 +17,8 @@
 - 💙 Passionate Flutter Developer with strong UI/UX focus  
 - 🧩 Skilled in **BLoC**, Clean Architecture & App Optimization  
 - 📱 Building cross-platform apps for Android & iOS  
-- 🚀 Looking for Internship & Collaboration opportunities  
-- 🎯 Loves solving real-world problems with elegant design  
+- 🚀 Exploring exciting internship & collaboration opportunities  
+- 🎯 Loves solving real-world problems with clean design  
 
 ---
 
@@ -28,8 +28,10 @@
 |--------|-------------|------|
 | **Zenit App** | Productivity + Learning App | Flutter + BLoC |
 | **EduDibon App** | ERP Learning Platform | Flutter + Supabase |
-| **Expense Tracker** | Personal finance management app | Flutter |
-| **Wallpaper Hub** | Smooth wallpaper browsing experience | Flutter |
+| **Reservation Tracker** | Timezone conversion & meeting organizer | Flutter |
+
+
+👉 *More projects on GitHub — improving everyday 🚀*
 
 ---
 
@@ -39,25 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SiddXpert&show_icons=true&theme=tokyonight&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SiddXpert&theme=tokyonight" height="150" />
 </div>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SiddXpert&theme=tokyonight&no-bg=true&margin-w=10" />
-</div>
-
----
-
-### 🕹️ Contribution Graph (Pac-Man)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SiddXpert/SiddXpert/output/pacman-contribution-graph.svg">
-</picture>
-
 
 ---
 
